@@ -1,0 +1,9 @@
+{
+	"name": "rotation",
+	"repo": "Wizcorp/math-rotation",
+	"version": "0.1.0",
+	"scripts": [
+		"index.js"
+	],
+	"license": "MIT"
+}
